@@ -1,0 +1,14 @@
+district,crop,date,temp_c,humidity_pct,rainfall_mm,forecast_3day,alert
+Warangal,cotton,2026-05-26,36,58,2,Hot and dry; heat stress likely,heatwave
+Guntur,paddy,2026-05-26,31,82,18,Heavy rain expected tomorrow; avoid spraying,heavy_rain
+Nashik,tomato,2026-05-26,28,55,0,Clear and dry; storm risk low,none
+Akola,soybean,2026-05-26,31,48,2,Dry spell likely; drought watch,drought_watch
+Jalandhar,wheat,2026-05-26,3,72,4,Cold night; frost risk in low areas,frost
+Kurnool,cotton,2026-05-26,35,58,0,Hot and dry,heatwave
+Hyderabad,cotton,2026-05-26,34,70,22,Thunderstorm and heavy rain next 48h,storm
+Pune,grapes,2026-05-26,27,60,5,Moderate rain; cloudy,none
+Ludhiana,wheat,2026-05-26,2,65,8,Frost warning tonight; protect nursery,frost
+Vijayawada,paddy,2026-05-26,33,85,25,Very heavy rain; field drainage needed,heavy_rain
+Warangal,potato,2026-05-26,34,52,1,Hot and dry; irrigate early morning,heatwave
+Lucknow,potato,2026-05-26,8,78,3,Cold night; frost risk in low areas,frost
+Hyderabad,potato,2026-05-26,32,68,6,Partly cloudy; moderate humidity,none

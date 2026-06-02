@@ -1,0 +1,151 @@
+scheme_id,scheme_name,category,crop,eligible,portal_hint
+pm_kisan,PM-KISAN,income_support,cotton,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,wheat,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,paddy,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,paddy,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,tomato,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,soybean,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,maize,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,maize,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,sugarcane,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,groundnut,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,groundnut,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,chilli,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,chilli,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,onion,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,potato,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,mustard,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,sunflower,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,bajra,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,pearl_millet,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,jowar,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,sorghum,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,chickpea,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,chickpea,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,lentil,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,moong,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,urad,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,pigeon pea,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,pigeon_pea,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,banana,yes,state agriculture portal / UMANG
+pm_kisan,PM-KISAN,income_support,mango,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,cotton,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,wheat,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,paddy,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,paddy,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,tomato,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,soybean,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,maize,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,maize,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,sugarcane,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,groundnut,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,groundnut,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,chilli,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,chilli,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,onion,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,potato,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,mustard,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,sunflower,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,bajra,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,pearl_millet,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,jowar,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,sorghum,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,chickpea,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,chickpea,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,lentil,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,moong,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,urad,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,pigeon pea,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,pigeon_pea,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,banana,yes,state agriculture portal / UMANG
+pmfby,PMFBY crop insurance,insurance,mango,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,cotton,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,wheat,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,paddy,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,paddy,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,tomato,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,soybean,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,maize,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,maize,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,sugarcane,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,groundnut,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,groundnut,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,chilli,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,chilli,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,onion,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,potato,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,mustard,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,sunflower,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,bajra,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,pearl_millet,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,jowar,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,sorghum,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,chickpea,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,chickpea,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,lentil,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,moong,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,urad,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,pigeon pea,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,pigeon_pea,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,banana,yes,state agriculture portal / UMANG
+soil_health,Soil Health Card,soil_testing,mango,yes,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,cotton,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,wheat,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,paddy,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,paddy,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,tomato,yes,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,soybean,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,maize,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,maize,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,sugarcane,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,groundnut,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,groundnut,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,chilli,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,chilli,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,onion,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,potato,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,mustard,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,sunflower,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,bajra,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,pearl_millet,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,jowar,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,sorghum,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,chickpea,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,chickpea,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,lentil,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,moong,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,urad,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,pigeon pea,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,pigeon_pea,check_state,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,banana,yes,state agriculture portal / UMANG
+drip_subsidy,Micro-irrigation subsidy,irrigation,mango,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,cotton,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,wheat,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,paddy,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,paddy,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,tomato,yes,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,soybean,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,maize,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,maize,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,sugarcane,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,groundnut,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,groundnut,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,chilli,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,chilli,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,onion,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,potato,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,mustard,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,sunflower,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,bajra,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,pearl_millet,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,jowar,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,sorghum,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,chickpea,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,chickpea,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,lentil,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,moong,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,urad,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,pigeon pea,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,pigeon_pea,check_state,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,banana,yes,state agriculture portal / UMANG
+seed_subsidy,Certified seed subsidy,inputs,mango,check_state,state agriculture portal / UMANG

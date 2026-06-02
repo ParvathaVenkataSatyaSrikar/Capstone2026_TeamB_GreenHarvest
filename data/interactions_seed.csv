@@ -1,0 +1,6 @@
+farmer_id,query,intent,language,confidence,escalated
+F001,Whiteflies on cotton leaves,pest_disease,telugu,0.72,false
+F001,Cotton leaves turning yellow,pest_disease,telugu,0.68,false
+F006,Bollworm damage on young plants,pest_disease,telugu,0.75,false
+F002,When to apply urea for paddy,crop_advisory,telugu,0.81,false
+F005,Wheat irrigation in current weather,irrigation,punjabi,0.85,false

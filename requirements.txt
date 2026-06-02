@@ -1,0 +1,35 @@
+# Core
+streamlit
+python-dotenv
+pydantic
+pydantic-settings
+truststore
+
+# Data
+pandas
+plotly
+
+# LangChain + LangGraph
+langchain
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-tavily
+langgraph
+langchain-community
+langchain-text-splitters
+
+# RAG
+faiss-cpu
+
+# LLM APIs
+google-generativeai
+openai
+tavily-python
+Pillow
+
+# Voice input (Crop Advisor demo)
+SpeechRecognition
+
+# Testing
+pytest

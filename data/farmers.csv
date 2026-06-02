@@ -1,0 +1,26 @@
+farmer_id,name,district,crop,land_acres,irrigation_type,language,crop_stage,phone
+F001,Ramesh Kumar,Warangal,cotton,3.5,drip,telugu,flowering,9876500001
+F002,Sunita Devi,Guntur,paddy,2.0,canal,telugu,tillering,9876500002
+F003,Vikram Singh,Nashik,tomato,1.2,drip,hindi,harvest,9876500003
+F004,Anita Patil,Akola,soybean,4.0,rainfed,marathi,pod_fill,9876500004
+F005,Mohan Lal,Jalandhar,wheat,5.0,canal,punjabi,grain_fill,9876500005
+F006,Lakshmi Reddy,Kurnool,cotton,2.8,sprinkler,telugu,vegetative,9876500006
+F007,Rajesh Yadav,Meerut,sugarcane,6.2,canal,hindi,vegetative,9876500007
+F008,Priya Nair,Thrissur,coconut,3.0,rainfed,malayalam,mature,9876500008
+F009,Hassan Ali,Mysuru,ragi,1.5,rainfed,kannada,tillering,9876500009
+F010,Geeta Sharma,Jaipur,mustard,2.4,sprinkler,hindi,flowering,9876500010
+F011,Arun Das,Bhubaneswar,paddy,3.1,canal,odia,vegetative,9876500011
+F012,Meena Kumari,Patna,maize,2.2,rainfed,hindi,grain_fill,9876500012
+F013,Suresh Patel,Ahmedabad,groundnut,3.8,drip,gujarati,pod_fill,9876500013
+F014,Kamala Devi,Raipur,pigeon pea,2.6,rainfed,hindi,flowering,9876500014
+F015,Joseph Thomas,Idukki,tea,1.0,sprinkler,malayalam,vegetative,9876500015
+F016,Fatima Begum,Hyderabad,chilli,1.8,drip,telugu,harvest,9876500016
+F017,Balwant Singh,Ludhiana,wheat,4.5,canal,punjabi,tillering,9876500017
+F018,Deepa Rao,Vijayawada,paddy,2.9,canal,telugu,flowering,9876500018
+F019,Imran Khan,Lucknow,potato,2.1,sprinkler,hindi,vegetative,9876500019
+F020,Lata Menon,Kolhapur,sugarcane,5.5,drip,marathi,mature,9876500020
+F021,Chandan Oraon,Ranchi,tomato,1.4,rainfed,hindi,flowering,9876500021
+F022,Pooja Verma,Indore,soybean,3.3,sprinkler,hindi,pod_fill,9876500022
+F023,Murugan S,Coimbatore,banana,2.0,drip,tamil,vegetative,9876500023
+F024,Ayesha Khatun,Malda,paddy,2.7,canal,bengali,vegetative,9876500024
+F025,Harpreet Kaur,Amritsar,cotton,3.9,drip,punjabi,boll_formation,9876500025

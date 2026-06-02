@@ -1,0 +1,9 @@
+farmer_id,district,crop,ph,nitrogen,phosphorus,potassium,organic_carbon,recommendation
+F001,Warangal,cotton,7.2,medium,low,medium,0.45,Apply balanced NPK; monitor zinc
+F002,Guntur,paddy,6.5,medium,medium,high,0.62,Maintain water level; split nitrogen
+F003,Nashik,tomato,6.8,high,medium,medium,0.55,Reduce nitrogen near harvest
+F004,Akola,soybean,7.0,low,medium,low,0.38,Apply phosphorus at pod initiation
+F005,Jalandhar,wheat,7.4,medium,medium,medium,0.50,Final irrigation as per stage
+F006,Kurnool,cotton,7.1,low,low,medium,0.42,Foliar micronutrients suggested
+F019,Lucknow,potato,6.9,medium,medium,medium,0.48,Split nitrogen; avoid waterlogging in vegetative stage
+F001,Warangal,potato,7.0,medium,low,medium,0.44,Balanced NPK; earthing-up at tuber initiation

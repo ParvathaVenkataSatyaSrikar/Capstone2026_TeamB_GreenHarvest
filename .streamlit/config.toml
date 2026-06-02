@@ -1,0 +1,19 @@
+[server]
+fileWatcherType = "none"
+headless = true
+
+[runner]
+fastReruns = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = false
+
+[theme]
+primaryColor = "#22c55e"
+backgroundColor = "#f0fdf4"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#14532d"
+font = "sans serif"

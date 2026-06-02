@@ -1,0 +1,19 @@
+# Okra — jassids management
+
+Crop: okra
+Pest: jassids
+
+## Identification
+- Monitor lower/upper leaf surface and growing tips.
+- Sticky honeydew, holes, mines, or wilting may indicate jassids.
+
+## Cultural control
+- Remove crop residues; avoid monoculture without rotation.
+- Balanced nutrition — excess nitrogen increases sucking pests.
+
+## Chemical / biological
+- Use recommended molecule per state agriculture university.
+- Rotate insecticide groups to delay resistance.
+- Neem, BT, or biocontrol where effective for jassids.
+
+Category: pests | Crop: okra

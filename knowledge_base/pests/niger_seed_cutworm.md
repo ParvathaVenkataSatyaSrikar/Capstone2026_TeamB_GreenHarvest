@@ -1,0 +1,19 @@
+# Niger_Seed — cutworm management
+
+Crop: niger_seed
+Pest: cutworm
+
+## Identification
+- Monitor lower/upper leaf surface and growing tips.
+- Sticky honeydew, holes, mines, or wilting may indicate cutworm.
+
+## Cultural control
+- Remove crop residues; avoid monoculture without rotation.
+- Balanced nutrition — excess nitrogen increases sucking pests.
+
+## Chemical / biological
+- Use recommended molecule per state agriculture university.
+- Rotate insecticide groups to delay resistance.
+- Neem, BT, or biocontrol where effective for cutworm.
+
+Category: pests | Crop: niger_seed
